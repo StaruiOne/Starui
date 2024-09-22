@@ -1,0 +1,31 @@
+.logo {
+    background-image: url("../material/logo.png");
+    position: absolute;
+    left: 98px;
+    top: 38px;
+    width: 31px;
+    height: 25px;
+    z-index: 236;
+}
+.home{
+    font-size: 12px;
+    font-family: "Montserrat";
+    color: rgb(16, 201, 195);
+    text-transform: uppercase;
+    line-height: 2;
+    text-align: left;
+    position: absolute;
+    left: 651.937px;
+    top: 37.5px;
+    z-index: 235;
+}
+
+.header {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1366px;
+    height: 5797px;
+    z-index: 237;
+}
+
